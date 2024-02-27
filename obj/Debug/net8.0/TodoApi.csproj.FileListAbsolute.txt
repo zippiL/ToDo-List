@@ -97,3 +97,9 @@ C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיק
 C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
 C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ציפורה לנדא\Documents\לימודים כיתה ו\פרקטיקוד\part4\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
