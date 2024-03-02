@@ -25,7 +25,7 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Todo API V1");
 });
 app.UseCors("OpenPolicy");
-
+app.MapGet("/", () => "Hello World!");
 app.MapGet("/items", async (ToDoDbContext dbContext) =>
 {
     var items = await dbContext.Items.ToListAsync();
